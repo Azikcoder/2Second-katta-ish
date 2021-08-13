@@ -1,0 +1,626 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.clr {
+    clear: both;
+}
+#rasmlar {
+    background-color: teal !important;
+    z-index: 9999;
+}
+.image-1 {
+    display: inline-block;
+    float: left;
+    
+
+    
+   
+}
+.image-2 {
+    display: inline-block;
+    float: left;
+  
+
+}
+.image-3 {
+    display: inline-block;
+    float: left;
+   
+  
+}
+.image-1 h1 {
+    margin-top: -60px;
+    font-size: 27px;
+    color: #fff;
+    margin-left: 60px;
+    font-family: monospace;
+    letter-spacing: 5px;
+}
+.btn-closetext-reset{
+    color: white;
+    background-color: white;
+}
+.image-2 h1 {
+    margin-top: -60px;
+    font-size: 27px;
+    color: #fff;
+    margin-left: 60px;
+    font-family: monospace;
+    letter-spacing: 5px;
+}
+.image-3 h1 {
+    margin-top: -60px;
+    font-size: 27px;
+    color: #fff;
+    margin-left: 60px;
+    font-family: monospace;
+    letter-spacing: 5px;
+}
+.box-1 {
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+    
+}
+.box-2 {
+    display: inline-block;
+    float: left;
+    margin-left: -90px;
+    
+}
+.min-1 {
+    padding: 10px;
+}
+.min-1 h1, p{
+    font-family: cursive;
+    font-size: 25px;
+    color: teal;
+}
+.min-1 h1 {
+    margin-left: 100px;
+}
+.image-3 img {
+    filter: brightness(40%);
+}
+.image-2 img {
+    filter: brightness(40%);
+}
+.image-1 img {
+    filter: brightness(40%);
+}
+#rasmlar img:hover{
+    filter: brightness(100%);
+    cursor: pointer;
+    transition: 0.6s;
+    scroll-behavior: smooth;
+
+}
+#radmlar h1{
+    z-index: 9999;
+}
+  
+
+.button-image {
+  
+   background-color: rgb(255, 255, 255);
+   padding: 10px 15px;
+   border: 1px solid rgb(255, 255, 255);
+   margin-left: -300px;
+}
+.button-image:hover {
+    background: none;
+    color: rgb(255, 255, 255);
+}
+.aboutcha a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+.aboutcha i {
+    display: inline-block;
+    float: left;
+}
+.aboutcha a {
+    display: inline-block;
+    float: left;
+}
+.navbar-toggler{
+    color: #fff;
+    background-color: #fff;
+}
+.black {
+    color: #fff;
+}
+.icon2 {
+    
+    
+}
+
+.gg{
+    
+    list-style: none;
+    padding: 16px 0;
+}
+.ggg {
+    margin-top: 60px;
+   
+     margin-left: 260px;
+}
+#box123 {
+    display: inline-block;
+    float: left;
+    background-color: rgb(3, 87, 87);
+    width: 50%;
+    height: 700px;
+}
+#box123 .ser {
+   margin-top: 50px;
+   margin-left: 260px;
+   color: thistle;
+}
+.chizz {
+    color: yellow;
+    margin-left: 260px;
+    margin-top: -60px;
+}
+.gg1 {
+    list-style: none;
+    padding: 16px 0;
+    margin-left: -8px;
+}
+.ggg a {
+    color: thistle;
+    padding: 0 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.ggg a:hover{
+    color: rgb(158, 121, 158);
+}
+.box126 {
+    margin-left: 840px;
+    margin-top: 100px;
+}
+.qora {
+    padding: 30px 0;
+}
+
+.box126 button {
+    padding: 10px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: #fff;
+    font-size: 20px;
+    background-color: teal;
+}
+.box126 button:hover{
+    background: none;
+    color: #000;
+}
+
+.img100 {
+    background-image: url(../image_mini/pexels-peng-liu-169647.jpg);
+    width: 700px;
+    height: 150px;
+    margin-left: -82px;
+}
+.light {
+    color: #fff;
+    position: relative;
+    top: 70px;
+    left: 60px;
+    font-size: 25px;
+    font-family: monospace;
+
+}
+.float1 {
+    display: inline-block;
+    float: left;
+}
+.float2 {
+    display: inline-block;
+    float: left;
+}
+.img100 button {
+    padding: 20px 20px;
+    position: relative;
+    color: #000;
+    font-size: 19px;
+    background-color: #fff;
+    left: 190px;
+    top: 50px;
+
+}
+.img100 button:hover {
+    background: none;
+    color: #fff;
+    border: #fff 1px solid;
+}
+.head40 {
+    display: inline-block;
+    margin-left: 100px;
+    float: left;
+}
+.head41 {
+    display: inline-block;
+    margin-left: 50px;
+    float: left;
+    margin-top: -100px;
+}
+.header12 h1, p {
+    font-size: 25px;
+    margin-left: 100px;
+}
+.head40 img {
+    margin-bottom: 50px;
+}
+.head41 img {
+    margin-bottom: 40px;
+}
+.work1 img {
+    display: inline-block;
+    float: left;
+
+}
+.work2 img {
+    display: inline-block;
+    float: left;
+}
+.work1 .box46 {
+    margin-left: 50px;
+}
+
+.tes2 {
+    display: inline-block;
+    float: left;
+}
+.card-text {
+    text-align: center;
+    margin-left: 0;
+    font-size: large;
+}
+#tes-one {
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+.testimonial {
+    margin-left: 50px;
+}
+.card {
+    display: inline-block;
+    float: left;
+}
+.card {
+    display: inline-block;
+    float: left;
+}
+.box127 {
+    display: inline-block;
+    float: left;
+}
+.iconn3 {
+    margin-left: 60px;
+    padding: 30px;
+}
+.fa-gopuram {
+    color: yellowgreen;
+}
+#info-head {
+    margin-top: 100px;
+}
+.col-md-4 {
+    background-color: rgb(231, 212, 212);
+    padding: 0 90px;
+    display: inline-block;
+    float: left;
+    margin: 20px;
+}
+.row {
+    margin-left: 200px;
+}
+.col-md-4 p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: large;
+}
+.col-md-4 button {
+    padding: 10px 30px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: teal;
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.col-md-4 button:hover{
+    color: teal;
+    background: none;
+}
+.col-md-4 a {
+    text-decoration: none;
+    text-align: center;
+    color: yellowgreen;
+    margin: 30px 60px 90px 60px;
+    padding: 40px 0;
+}
+.fa-twitter {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: #444;
+    padding: 30px;
+    
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.fa-instagram {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: #444;
+    padding: 30px;
+    
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.fa-facebook {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: #444;
+    padding: 30px;
+    
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.fo-icon {
+    margin-left: 630px;
+    margin-top: 100px;
+    padding: 100px  0;
+}
+.fa-facebook:hover {
+    color: #fff;
+}
+.fa-instagram:hover {
+    color: #fff;
+}
+.fa-twitter:hover {
+    color: #fff;
+}
+.oq {
+    
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+.bg-dark h1, p{
+    margin-top: -50px;
+}
+.opacty1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* About page */
+.baco-img1 {
+    width: 100%;
+    height: 600px;
+    background-color: rgba(27, 27, 250, 0.7);
+    /* opacity: 0.7; */
+}
+.top-minus {
+    margin-top: -100px;
+    text-align: center;
+    color: #fff !important;
+    /* opacity: 1; */
+}
+.baco-img3 {
+    background-image: url(../image_mini/pexels-chloe-1043474.jpg);  
+    width: 100px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-quote {
+    background-image: url(../mornin_image/pexels-laura-tancredi-7078504.jpg);
+    width: 800px;
+    background-position: center center;
+    height: 200px;
+}
+.img-quote h1 {
+    padding: 80px 100px;
+    display: inline-block;
+    float: left;
+}
+.img-quote p {
+    padding: 21px 2px;
+    margin-top: 80px;
+    margin-right: 50px;
+    background-color: teal;
+    color: #000;
+    display: inline-block;
+    border: 1px solid #fff;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.img-quote p:hover {
+    background: none;
+    cursor: pointer;
+}
+.col-md-41 {
+    display: inline-block;
+    float: left;
+    padding-left: 50px;
+}
+.row2 {
+    margin-left: 300px;
+}
+#plan h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.col-md-42 .yashil {
+    display: inline-block;
+    float: left;
+    font-size: 30px;
+    margin-top: -5px;
+    margin-right: 5px;
+    color: yellowgreen;
+}
+.col-md-42 h3 {
+    display: inline-block;
+    float: left;
+}
+.col-md-42 {
+    display: inline-block;
+    float: left;
+    padding: 40px;
+}
+.col-md-61 {
+    display: inline-block;
+    float: left;
+    padding: 0 10px;
+    
+}
+.col-md-61 h6 {
+    color: rgba(12, 11, 11, 0.3);
+}
+.blog1-box1 {
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.read {
+    font-size: 15px;
+    width: 100px;
+    padding: 10px;
+    border: 1px solid yellowgreen;
+    color: yellowgreen;
+}
+.read:hover {
+    background-color: #000;
+    border: 1px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.row5 {
+    margin-left: 160px;
+    margin-bottom: 190px;
+}
+.container1 {
+    margin-left: 600px;
+}
+.turtburchak {
+    display: inline-block;
+    float: left;
+    margin: 5px;
+}
+.turtburchak h3 {
+    padding: 10px 15px;
+    border: 1px solid #000;
+    font-size: 15px;
+}
+.turtburchak h3:hover {
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.8s;
+}
+#contactus h1, h6 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.col1 {
+    display: inline-block;
+    float: left;
+    margin: 50px 50px;
+}
+.opacty {
+    color: rgba(0, 0, 0, 0.5) !important;
+    font-weight: bold;
+}
+#contactus h1 {
+    font-weight: bold;
+    margin-left: 100px;
+}
+.yashil {
+    display: inline-block;
+    float: left;
+    color: yellowgreen;
+}
+#text {
+    padding-right: 360px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    margin: 20px 0;
+}
+#email {
+    padding-right: 360px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    margin: 20px 0;
+}
+.button_1 {
+    font-size: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+    width: 170px;
+    margin-top: 30px;
+}
+.button_1:hover {
+    background-color: #000;
+    transition: 0.6s;
+    color: #fff;
+    cursor: pointer;
+}
+.in-box1 {
+    display: inline-block;
+    float: left;
+}
+.in-box2 {
+    display: inline-block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.h2 {
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+}
+.h2:hover {
+    visibility: visible;
+}
+.hover1 {
+    position: relative;
+    top: -100px;
+}
+.icon-search {
+   position: relative;
+   top: -180px;
+   justify-content: center;
+   margin-left: 150px;
+}
+.hover1 {
+    visibility: hidden;
+}
+.hover1:hover {
+    visibility: visible;
+    cursor: pointer;
+}
